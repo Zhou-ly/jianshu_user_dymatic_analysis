@@ -89,4 +89,4 @@ ITEM_PIPELINES = {
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 MONGO_HOST = 'localhost'
-MONGO_DATABASE = 'JianShuNew'
+MONGO_DATABASE = 'JianShu'
